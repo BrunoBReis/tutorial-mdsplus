@@ -1,0 +1,8 @@
+repo_url: https://github.com/BrunoBReis/tutorial-mdsplus
+site_name: Tutorial MDSplus
+theme:
+  name: material
+  features:
+    - content.code.copy
+nav:
+  - Home: index.md
