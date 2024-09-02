@@ -1,4 +1,6 @@
-# Sobre
+# Tutorial MDSplus
 
-Este é um tutorial de como preparar o ambiente local para começar a tutorial do [MDSplus](https://www.mdsplus.org/index.php/Introduction)
+Para começar o tutorial basta acessar a [documentação](https://brunobreis.github.io/tutorial-mdsplus/).
 
+## MDSplus
+As informações foram tiradas e organizadas com base no site [MDSplus](https://www.mdsplus.org/index.php/Introduction)
