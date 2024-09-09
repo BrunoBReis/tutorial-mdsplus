@@ -16,7 +16,11 @@ Antes de começar o tutorial é muito importante cumprir com estes requisitos:
 ```bash
 sudo apt install build-essential
 ```
+- Biblioteca `cURL`.
 
+```bash
+sudo apt install curl
+```
 ## Preparando o Ambiente Local
 
 Para começar a baixar as dependências do projeto é necessário entender um conceito: **Release Levels**
@@ -114,6 +118,12 @@ A saída deve conter as duas linhas adicionadas pelo commando `echo`.
 #### Atualizando o bash
 ```bash
 source ~/.bashrc
+```
+
+#### Reiniciar o computaodr
+Para garantir que todas as mudanças foram aplicadas corretamente, é necessário **reiniciar o computador**.
+```bash
+sudo reboot
 ```
 
 ### Baixando o Tutorial
